@@ -9,7 +9,7 @@ This application asks a user the difficulty of the game which controls the numbe
 
 **Function Descriptions**  
   >_on app.py_  
-      >>display_menu() -> displays menu for the game.  
+      display_menu() -> displays menu for the game.  
     other_options() -> provides additional option on user.  
     pick_difficulty() -> allows option to choose the difficulty of the game.  
     num_guess() -> handles the main guessing game functionality.  
