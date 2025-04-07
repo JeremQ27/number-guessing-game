@@ -3,9 +3,9 @@
 This application asks a user the difficulty of the game which controls the number of tries, generates a number from 1 - 100 and lets a user play a number guessing game through a CLI interface.
 
 **Difficulties:**
-  _Easy_ - gives you 10 maximum tries.
-  _Medium_ - gives you 5 maximum tries.
-  _Hard_ - gives you 3 maximum tries.
+  _Easy_ - gives you 10 maximum tries.  
+  _Medium_ - gives you 5 maximum tries.  
+  _Hard_ - gives you 3 maximum tries.  
 
 **Function Descriptions**
   _on app.py_
