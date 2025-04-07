@@ -16,7 +16,7 @@ This application asks a user the difficulty of the game which controls the numbe
 
   _on set_high_score.py_
     reset_high_score() -> resets saved high_score
-    create_highscore_json() -> creates the high_score json file if not exists.
+    create_highscore_json() -> creates the high_score json file if not exists.	
     load_high_score() -> loads the high_score on the json file.
     view_high_score() -> allows user to view the current high score.
     save_new_high_score() -> updates the high_score json file with the score on the current session.
